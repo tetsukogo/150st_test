@@ -19,5 +19,5 @@ print(greeting)
 def add(a, b):
     return a + b
 
-result = add(3, 6)
+result = add(4, 8)
 print(result)
